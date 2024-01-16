@@ -116,7 +116,6 @@
     }
     .css-muegsn{
         border-bottom: 1px solid white!important;
-
     }
     
 }
@@ -129,6 +128,7 @@
     }
     .css-muegsn{
         border-right: 1px solid white;
+        border-bottom: none!important;
     }
     
 }
