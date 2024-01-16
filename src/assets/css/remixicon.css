@@ -1,0 +1,12 @@
+
+@font-face {
+    font-family: "remixicon";
+    src: url('chrome-extension://dpphkcfmnbkdpmgneljgdhfnccnhmfig/assets/fonts/remixicon.eot'); /* IE9*/
+    src: url('chrome-extension://dpphkcfmnbkdpmgneljgdhfnccnhmfig/assets/fonts/remixicon.eot#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url("chrome-extension://dpphkcfmnbkdpmgneljgdhfnccnhmfig/assets/fonts/remixicon.woff2") format("woff2"),
+    url("chrome-extension://dpphkcfmnbkdpmgneljgdhfnccnhmfig/assets/fonts/remixicon.woff") format("woff"),
+    url('chrome-extension://dpphkcfmnbkdpmgneljgdhfnccnhmfig/assets/fonts/remixicon.ttf') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+    url('chrome-extension://dpphkcfmnbkdpmgneljgdhfnccnhmfig/assets/fonts/remixicon.svg#remixicon#remixicon') format('svg'); /* iOS 4.1- */
+    font-display: swap;
+  }
+  
