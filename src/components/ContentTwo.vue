@@ -229,7 +229,12 @@
         font-size: 14px;
     }
 }
-
+@media(min-width: 600px) {
+    .css-1ub1m22 .value {
+        font-size: 16px;
+    }
+    
+}
 @media (min-width: 900px) {
     .css-1ub1m22 {
         padding:60px 90px;
@@ -240,12 +245,7 @@
     }
 }
 
-@media(min-width: 600px) {
-    .css-1ub1m22 .value {
-        font-size: 16px;
-    }
-    
-}
+
 
 
 
