@@ -1,7 +1,7 @@
 <template>
         <div class="MuiBox-root css-24zhj9">
             <div class="MuiBox-root css-18bzo0h">
-            <p class="MuiTypography-root MuiTypography-body1 css-18nigh3 " data-aos="fade-down">B²
+            <p class="MuiTypography-root MuiTypography-body1 css-18nigh3 " data-aos="fade-down">BTNU
                 Network Friends</p>
             <div class="MuiGrid-root MuiGrid-container css-775r3z">
                 <div class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-6 MuiGrid-grid-lg-4 css-pjvi1b "

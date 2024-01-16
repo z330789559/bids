@@ -2,7 +2,7 @@
     <div class="MuiBox-root css-24zhj9">
         <div class="MuiBox-root css-18bzo0h">
             <p class="MuiTypography-root MuiTypography-body1 css-18nigh3 aos-init aos-animate" data-aos="fade-down">
-                Architecture of B²</p><img class="hvr-grow aos-init aos-animate" data-aos="fade-up"
+                Architecture of BTNU</p><img class="hvr-grow aos-init aos-animate" data-aos="fade-up"
                 src="../assets/architecture.png"
                 style="width:100%;display:block;margin:auto;pointer-events:none;user-select:none" alt="architeture">
         </div>

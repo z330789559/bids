@@ -7,7 +7,7 @@
                     <div class="MuiBox-root css-1c69k5k" id="contact">
                         <div class="MuiInputBase-root MuiInputBase-colorPrimary css-169qg8e"><input
                             placeholder="Enter your E-mail" type="text" class="MuiInputBase-input css-mnn31"></div>
-                    <hr class="MuiDivider-root MuiDivider-fullWidth MuiDivider-vertical css-an0l0s"><a href="Mailto:baozhongmail@yeah.net?Subject=contract me &Body=你好"
+                    <hr class="MuiDivider-root MuiDivider-fullWidth MuiDivider-vertical css-an0l0s"><a href="Mailto:svipbull2024@gmail.com?Subject=contract me &Body=你好！"
                         class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-15mrbfe" tabindex="0"
                         type="button"><svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium icon css-vubbuv"
                             focusable="false" aria-hidden="true" viewBox="0 0 24 24" data-testid="EastIcon">
@@ -17,23 +17,34 @@
                 <p class="MuiTypography-root MuiTypography-body1 css-sh893s">By subscribing, you accepted our Policy</p>
             </div>
             <div class="MuiBox-root css-gg4vpm">
-                <div class="MuiBox-root css-14g07js"><a
+                <div class="MuiBox-root css-14g07js">
+                         <a
                         class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-y3q6wp"
                         href="https://twitter.com/BTNU_Bitcoin" target="_blank"><img src="../assets/icon_twitter.svg"
-                            class="small-icon" alt="href"></a><a
+                            class="small-icon" alt="href"></a>
+
+                            <a
                         class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-y3q6wp"
                         href="https://t.me/bsquared_chat" target="_blank"><img src="../assets/icon_tg.svg"
-                        class="small-icon" alt="href"></a><a
+                        class="small-icon" alt="href"></a>
+
+                        <!-- <a
                         class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-y3q6wp"
                         href="https://www.discord.gg/bsquarednetwork" target="_blank"><img
-                            src="../assets/icon_discord.svg"    class="small-icon" alt="href"></a><a
+                            src="../assets/icon_discord.svg"    class="small-icon" alt="href"></a>
+
+                            <a
                         class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-y3q6wp"
                         href="https://github.com/b2network" target="_blank"><img src="../assets/icon_github.svg"
-                        class="small-icon" alt="href"></a><a
+                        class="small-icon" alt="href"></a>
+    
+
+                        <a
                         class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-y3q6wp"
                         href="https://medium.com/@bsquarednetwork" target="_blank"><img src="../assets/icon_medium.svg"
                         class="small-icon" alt="href"></a></div><a href="/"><img style="width: 100px"
-                        src="../assets/logo.png" alt="logo"></a>
+                        src="../assets/logo.png" alt="logo"></a> -->
+                    </div>
             </div>
         </div>
     </div>

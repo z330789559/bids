@@ -19,7 +19,7 @@
                            aria-hidden="true" viewBox="0 0 24 24" data-testid="EastIcon">
                            <path d="m15 5-1.41 1.41L18.17 11H2v2h16.17l-4.59 4.59L15 19l7-7-7-7z"></path>
                        </svg></div>
-                   <div class="paper MuiBox-root css-1c8kew5  "  data-aos="fade-up">B² Odyssey<svg
+                   <div class="paper MuiBox-root css-1c8kew5  "  data-aos="fade-up">BTNU Odyssey<svg
                            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium arrow css-vubbuv" focusable="false"
                            aria-hidden="true" viewBox="0 0 24 24" data-testid="EastIcon">
                            <path d="m15 5-1.41 1.41L18.17 11H2v2h16.17l-4.59 4.59L15 19l7-7-7-7z"></path>
@@ -38,7 +38,8 @@
                                style="width:30px;height:30px" alt="href"></a><a
                        class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-y3q6wp"
                        href="https://t.me/bsquared_chat" target="_blank"><img src="../assets/icon_tg.svg"
-                           style="width:30px;height:30px" alt="href"></a><a
+                           style="width:30px;height:30px" alt="href"></a>
+                           <!-- <a
                        class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-y3q6wp"
                        href="https://www.discord.gg/bsquarednetwork" target="_blank"><img
                            src="../assets/icon_discord.svg" style="width:30px;height:30px" alt="href"></a><a
@@ -47,7 +48,8 @@
                            style="width:30px;height:30px" alt="href"></a><a
                        class="MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-y3q6wp"
                        href="https://medium.com/@bsquarednetwork" target="_blank"><img src="../assets/icon_medium.svg"
-                           style="width:30px;height:30px" alt="href"></a></div>
+                           style="width:30px;height:30px" alt="href"></a> -->
+                        </div>
            </div>
         </div>
         <div class="MuiBox-root css-1pq1h9a" data-aos="fade-in">

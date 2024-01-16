@@ -8,11 +8,9 @@ import App from './src/App.vue'
 import AOS from 'aos'
 const app=createApp(App)
 const appAOS = new AOS.init({
-    disable: "phone",
     duration: 1200,
     easing: 'ease-in-out',
-}
-    );
-app.use(appAOS)
+     });
 app.use(router)
+app.use(appAOS)
 app.mount('#app')

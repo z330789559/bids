@@ -225,17 +225,30 @@
     .css-1ub1m22 {
         padding:30px;
     }
+    .css-1ub1m22 .value {
+        font-size: 14px;
+    }
 }
 
 @media (min-width: 900px) {
     .css-1ub1m22 {
         padding:60px 90px;
     }
+
+    .css-1ub1m22 .value {
+        font-size: 20px;
+    }
 }
 
-.css-1ub1m22 .value {
-    font-size: 20px;
+@media(min-width: 600px) {
+    .css-1ub1m22 .value {
+        font-size: 16px;
+    }
+    
 }
+
+
+
 .css-12mgzo0 {
     position: relative;
     width: 26%;
